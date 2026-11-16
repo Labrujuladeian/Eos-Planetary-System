@@ -1,4 +1,4 @@
-![Eos Planetary System](assets/Eos_banner.png)
+![Eos Planetary System](./Eos_banner.png)
 
 # Eos-Planetary-System
 
