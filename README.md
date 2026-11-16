@@ -69,3 +69,4 @@ Credits
 Created by Labrujuladeian.
 
 Thank you to everyone who supports and contributes to the Eos Planetary System project.
+![Eos System](Captura de pantalla_20261115_214028.png)
