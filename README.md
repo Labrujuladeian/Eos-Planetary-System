@@ -9,7 +9,26 @@ A custom planetary system mod for Kerbal Space Program 1.12.5
 ## Download
 
 [Download Eos Planetary System v0.1.0](https://github.com/Labrujuladeian/Eos-Planetary-System/releases/tag/v0.1.0)
-⸻
+
+#Recommended Visual Mods
+
+Enhance your exploration of the Eos system with these visual enhancements for Kerbal Space Program.
+
+Parallax Continued
+
+* Advanced planetary terrain textures, surface details and environmental objects.
+* Requires additional dependencies and Eos-specific configurations.
+
+Scatterer
+
+* Atmospheric scattering, realistic lighting and improved water effects.
+
+EVE Volumetric Clouds V3
+
+* Volumetric clouds and enhanced atmospheric visuals.
+
+Note: These are optional visual enhancements, not bundled with Eos. Additional planet configurations may be required. Check compatibility with your installed versions.
+⸻                                                                                                                                        
 
 About Eos
 
