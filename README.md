@@ -10,7 +10,7 @@ A custom planetary system mod for Kerbal Space Program 1.12.5
 
 [Download Eos Planetary System v0.1.0](https://github.com/Labrujuladeian/Eos-Planetary-System/releases/tag/v0.1.0)
 
-#Recommended Visual Mods
+#Recommended Visual Mods :D
 
 Enhance your exploration of the Eos system with these visual enhancements for Kerbal Space Program.
 
@@ -30,7 +30,7 @@ EVE Volumetric Clouds V3
 Note: These are optional visual enhancements, not bundled with Eos. Additional planet configurations may be required. Check compatibility with your installed versions.
 ⸻                                                                                                                                        
 
-About Eos
+About Eos :P
 
 Beyond Kerbol, a new frontier awaits.
 
@@ -46,7 +46,7 @@ Your next journey begins beyond Kerbol.
 ![Eos System](Captura%20de%20pantalla_20261115_214950.png)
 ⸻
 
-Bug Reports
+Bug Reports XP
 
 Found a bug, graphical issue or unexpected behavior while exploring Eos?
 
@@ -68,5 +68,4 @@ Credits
 
 Created by Labrujuladeian.
 
-Thank you to everyone who supports and contributes to the Eos Planetary System project.
-![Eos System](Captura de pantalla_20261115_214028.png)
+Thank you to everyone who supports and contributes to the Eos Planetary System project :3
